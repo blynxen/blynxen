@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Brenda Lelis
 
-<!--
-**blynxen/blynxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer who bridges tech and strategy, with a background in compliance and a creative mindset for real-world solutions.
 
-Here are some ideas to get you started:
+Over my career, I've learned that impactful software is not just about writing code — it's about clear communication, strategic vision, and understanding complex business and regulatory needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Professional Summary
+
+- Focus on building AI-driven solutions and intelligent agents (like `genius` and `genius_personalassistant`)
+- 100% focus on Artificial Intelligence and Python-based development
+- Background bridging technology, strategic analysis, and compliance contexts
+- Experience developing practical, real-world systems such as transaction reporting
+- Strong mindset for creating solutions that align tech with business objectives
+
+I'm comfortable working from conceptual strategy to system execution.
+
+---
+
+## 🛠️ Technical Stack
+
+**Programming Languages** • Python
+**Focus Areas** • Artificial Intelligence • Intelligent Agents • Automation • Systems Design
