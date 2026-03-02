@@ -1,24 +1,34 @@
-# 👋 Hi, I'm Brenda Lelis
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Engineer-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Python-Developer-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Intelligent%20Systems-000000?style=flat" />
+</p>
 
-A developer who bridges tech and strategy, with a background in compliance and a creative mindset for real-world solutions.
+# Hi, I'm Brenda Lelis
 
-Over my career, I've learned that impactful software is not just about writing code — it's about clear communication, strategic vision, and understanding complex business and regulatory needs.
+AI Software Engineer building intelligent systems for real-world impact.
 
----
-
-## 👩‍💻 Professional Summary
-
-- Focus on building AI-driven solutions and intelligent agents (like `genius` and `genius_personalassistant`)
-- 100% focus on Artificial Intelligence and Python-based development
-- Background bridging technology, strategic analysis, and compliance contexts
-- Experience developing practical, real-world systems such as transaction reporting
-- Strong mindset for creating solutions that align tech with business objectives
-
-I'm comfortable working from conceptual strategy to system execution.
+I design and engineer AI-driven solutions aligned with business strategy and regulatory realities. My focus is on intelligent agents, automation, and scalable backend systems.
 
 ---
 
-## 🛠️ Technical Stack
+## What I Build
 
-**Programming Languages** • Python
-**Focus Areas** • Artificial Intelligence • Intelligent Agents • Automation • Systems Design
+- AI systems and intelligent agents  
+- Automation pipelines  
+- Python-based backend architectures  
+- Compliance-aware solutions  
+- End-to-end system design (strategy → execution → deployment)
+
+---
+
+## Tech Stack
+
+Python • APIs • System Design  
+Artificial Intelligence • LLM Integrations • Automation  
+
+---
+
+## Engineering Philosophy
+
+Intelligent systems should be practical, scalable, and aligned with real-world constraints.
